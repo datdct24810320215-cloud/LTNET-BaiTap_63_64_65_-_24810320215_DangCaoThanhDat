@@ -14,8 +14,8 @@
 | Bài tập | Tiêu đề bài tập | Trạng thái | Mức độ hoàn thành (%) |
 | :---: | :--- | :---: | :---: |
 | **Bài 6.3** | Hệ thống Quản lý Công việc & Tiến độ Dự án | Hoàn thành | 100% |
-| **Bài 6.4** | Hệ thống Quản lý Garage & Bảo dưỡng Xe ô tô | Hoàn thành | 80% |
-| **Bài 6.5** | Hệ thống Quản lý Đặt phòng & Dịch vụ Karaoke | Hoàn thành | 80% |
+| **Bài 6.4** | Hệ thống Quản lý Garage & Bảo dưỡng Xe ô tô | Hoàn thành | 100% |
+| **Bài 6.5** | Hệ thống Quản lý Đặt phòng & Dịch vụ Karaoke | Hoàn thành | 100% |
 
 ---
 
