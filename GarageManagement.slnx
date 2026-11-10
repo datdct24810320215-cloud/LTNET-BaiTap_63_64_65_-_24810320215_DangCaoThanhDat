@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Database/">
+    <File Path="../LTNET-BaiTap_63_64_65_-_24810320215_DangCaoThanhDat/Database/ScriptDB2.sql" />
+  </Folder>
+  <Project Path="GarageManagement/GarageManagement.csproj" />
+</Solution>

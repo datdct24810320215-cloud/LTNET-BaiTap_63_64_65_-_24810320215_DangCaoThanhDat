@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Database/">
+    <File Path="Database/ScriptDB.sql" />
+  </Folder>
+  <Project Path="ProjectManagement/ProjectManagement.csproj" />
+</Solution>
